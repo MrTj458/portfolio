@@ -1,0 +1,112 @@
+banner:
+  title: Hi! I'm Trevor Hodsdon
+
+social:
+  linkedin: trevorhodsdon
+  github: MrTj458
+  gmail: mrtj458
+
+about:
+  enable: true
+  content: Software Developer & Computer Science Student
+
+portfolio:
+  enable: true
+  item:
+    - title: DG Scorecard
+      description: A disc golf scorecard web app. Used to keep score during rounds for you and your friends.
+      link: "/portfolio/dgscorecard"
+      image: "/img/dgscorecard.png"
+      tools:
+        - go
+        - react
+        - tailwindcss
+        - mongodb
+        - docker
+    - title: Holo Who's Live
+      description: A website that combines live channels from both Youtube and Twitch. Centered around V-Tubers.
+      link: "/portfolio/holowhoslive"
+      image: "/img/holowhoslive.png"
+      tools:
+        - python
+        - fastapi
+        - vuedotjs
+        - postgresql
+        - redis
+        - netlify
+        - heroku
+        - docker
+
+skill:
+  enable: true
+  item:
+    - title: HTML
+      logo: "/img/html.png"
+      description: HTML 5.
+    - title: CSS
+      logo: "/img/css.jpg"
+      description: CSS 3.
+    - title: JavaScript
+      logo: "/img/javascript.png"
+      description: I have used JavaScript both with and without frameworks for client side applications, as well as Node.js and Express.
+    - title: React
+      logo: "/img/reactjs.jpg"
+      description: I have used both React class components as well as functional components with hooks.
+    - title: Vue
+      logo: "/img/vuejs.png"
+      description: I have used both the options and the Vue 3 composition API's.
+    - title: Python
+      logo: "/img/python.png"
+      description: Python 3.
+    - title: Django
+      logo: "/img/django.png"
+      description: I have used both vanilla Django with templates as well as the Django Rest Framework to create JSON API's.
+    - title: FastAPI
+      logo: "/img/fastapi.png"
+      description: FastAPI.
+    - title: Go
+      logo: "/img/golang.png"
+      description: I picked up Go recently and have really been liking the language and the community around it.
+    - title: SQL
+      logo: "/img/postgresql.jpg"
+      description: I have used MySQL, MariaDB, and PostgreSQL.
+    - title: MongoDB
+      logo: "/img/mongodb.jpg"
+      description: I have used MongoDB both with their Atlas service, as well as self hosted.
+    - title: Redis
+      logo: "/img/redis.png"
+      description: I have used Redis as an in memory cache to speed up API responses, and to help avoid reaching rate limits for third party API's.
+    - title: Docker
+      logo: "/img/docker.png"
+      description: I have used Docker both for development containers, and for deployments.
+    - title: Shopify
+      logo: "/img/shopify.png"
+      description: "I used shopify while working at the Real Salt Lake Team Store. I used it both for filling and shipping orders, as well as interacting with their GraphQL API to find and filter both customer and product information."
+
+experience:
+  enable: true
+  item:
+    - logo: "/img/ascendstaffing.png"
+      title: Help Desk Technician
+      company: Ascend Staffing
+      duration: Sep 2020 - Aug 2021
+    - logo: "/img/real.jpg"
+      title: Sales Associate
+      company: Real Salt Lake Team Store
+      duration: June 2018 - Aug 2021
+
+education:
+  enable: true
+  item:
+    - title: BS Computer Science (in progress)
+      year: Expected to graduate 2024
+      academy: Weber State University
+      image: "/img/weber.jpg"
+    - title: AS Computer Science
+      year: 2022
+      academy: Salt Lake Community College
+      image: "/img/slcc.png"
+    - title: Univerisy of Utah Full Stack Web Development Certificate
+      year: 2018
+      academy: DevPoint Labs
+      image: "/img/devpoint.png"

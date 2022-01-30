@@ -1,0 +1,44 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Trevor Hodsdon"
+theme = "hugo-developer-portfolio"
+
+[params.plugins]
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+
+
+[menu]
+  [[menu.main]]
+  name = "Portfolio"
+  URL = "portfolio"
+  weight = 1
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 2
+  
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 3
+
+[params]
+home = "Home"
+description = "The website of Trevor Hodsdon, software developer and computer science student"
+author = "Trevor Hodsdon"
+
+  [params.contact]
+  enable = true
+  formAction = "https://formspree.io/f/xlezjgdy"
+
+  [params.footer]
+  email = "mrtj458@gmail.com"
+  address = "South Jordan, UT"
