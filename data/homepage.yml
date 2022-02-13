@@ -86,6 +86,10 @@ skill:
 experience:
   enable: true
   item:
+    - logo: "/img/thrive-life.svg"
+      title: Software QA Technician
+      company: Thrive Life
+      duration: Feb 2022 - Present
     - logo: "/img/ascendstaffing.png"
       title: Help Desk Technician
       company: Ascend Staffing
