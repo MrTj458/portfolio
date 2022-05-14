@@ -36,6 +36,16 @@ portfolio:
         - netlify
         - heroku
         - docker
+    - title: Marked Notes
+      description: A website that allows you to write notes in Markdown and view them rendered as HTML.
+      link: "/portfolio/markednotes"
+      image: "/img/markednotes.png"
+      tools:
+        - go
+        - vuedotjs
+        - postgresql
+        - heroku
+        - docker
 
 skill:
   enable: true
