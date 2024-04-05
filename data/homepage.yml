@@ -92,30 +92,32 @@ skill:
     - title: Shopify
       logo: "/img/shopify.png"
       description: "I used shopify while working at the Real Salt Lake Team Store. I used it both for filling and shipping orders, as well as interacting with their GraphQL API to find and filter both customer and product information."
+    - title: PHP
+      logo: "/img/php.png"
+      description: "I have used PHP at Thrive Life. All of the code there is using PHP."
+    - title: Laravel
+      logo: "/img/laravel.png"
+      description: "I have used Laravel while working at Thrive Life since 2022. I have worked on multiple Laravel projects both as REST API's and as server rendered HTML."
 
 experience:
   enable: true
   item:
     - logo: "/img/thrive-life.svg"
-      title: Software QA Technician
+      title: Web Developer
       company: Thrive Life
       duration: Feb 2022 - Present
     - logo: "/img/ascendstaffing.png"
       title: Help Desk Technician
       company: Ascend Staffing
       duration: Sep 2020 - Aug 2021
-    - logo: "/img/real.jpg"
-      title: Sales Associate
-      company: Real Salt Lake Team Store
-      duration: June 2018 - Aug 2021
 
 education:
   enable: true
   item:
     - title: BS Computer Science (in progress)
-      year: Expected to graduate 2024
-      academy: Weber State University
-      image: "/img/weber.jpg"
+      year: Expected to graduate May 2025
+      academy: Western Governor's University
+      image: "/img/wgu.jpg"
     - title: AS Computer Science
       year: 2022
       academy: Salt Lake Community College

@@ -36,10 +36,6 @@ tech:
     url: "https://www.docker.com/"
 ---
 
-View this project live at https://www.holowhos.live/
-
-_It may take a while to load since the API is on a free Heroku dyno. It will be significantly faster after the first load._
-
 ## First of all, What is a V-Tuber?
 
 V-Tubers or "virtual YouTubers" are a form of live streaming where the streamer uses a virtual avatar, usually with a Japanese anime style, along with motion capture to create their own persona separate from their real selves. It really took off in 2020 when the whole world went on lock-down, and has continued to grow in popularity very quickly.

@@ -31,8 +31,6 @@ categories:
   - "web-dev"
 ---
 
-_This site currently isn't hosted anywhere as I am still working on some of the main features._
-
 ## What does it do?
 
 This site allows you to create scorecards to track scores during a round of disc golf. You can connect up to four accounts

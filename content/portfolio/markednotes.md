@@ -30,10 +30,6 @@ tech:
     url: "https://www.docker.com/"
 ---
 
-View this project live at https://markednotes.herokuapp.com/
-
-_It may take a while to load since the API is on a free Heroku dyno. It will be significantly faster after the first load._
-
 ## Why did I make this site?
 
 I saw a couple of posts about applications for taking notes in markdown and being able to view them. I decided to make a web based version that I could use myself for free.
